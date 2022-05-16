@@ -12,11 +12,18 @@ public class Sample {
 
 	}
 	
+
 	public void div() {
 		System.out.println("div");
 
 	}
 	
+
+	public void mul() {
+		System.out.println("mul");
+
+	}
+
 	
 
 }
