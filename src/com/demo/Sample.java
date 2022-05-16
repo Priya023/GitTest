@@ -12,6 +12,10 @@ public class Sample {
 
 	}
 	
+	public void mul() {
+		System.out.println("mul");
+
+	}
 	
 
 }
